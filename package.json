@@ -2,6 +2,9 @@
   "name": "jenkins-selenium",
   "version": "1.0.0",
   "description": "",
+  "scripts": {
+    "start": "selenium-side-runner -s http://localhost:4444 test/*.side"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/knysyy/jenkins-selenium.git"
