@@ -6,7 +6,7 @@ job('NodeJS Job') {
         }
     }
     triggers {
-        csm('H/5 * * * *')
+        scm('H/5 * * * *')
     }
     wrappers {
         nodejs('Node_v12')
