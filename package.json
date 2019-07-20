@@ -1,0 +1,17 @@
+{
+  "name": "jenkins-selenium",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knysyy/jenkins-selenium.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knysyy/jenkins-selenium/issues"
+  },
+  "homepage": "https://github.com/knysyy/jenkins-selenium#readme",
+  "devDependencies": {
+    "selenium-side-runner": "^3.12.1"
+  }
+}
