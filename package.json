@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start": "selenium-side-runner -s http://localhost:4444 test/*.side --output-directory=/home/ec2-user"
+    "start": "selenium-side-runner -s http://localhost:4444 test/*.side --output-directory=./"
   },
   "repository": {
     "type": "git",
